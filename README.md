@@ -26,7 +26,6 @@
 
 - 🌱 I’m currently learning concepts of software architeture, back-end and front-end development using .NET, Angular and NodeJs.
 - 🎓 Studying computer science at University of Brasília.
-- 💬 Ask me about how to make the best carbonara 🍝.
 
 <div align="center">
   <a href="https://github.com/plaisteixo-5">

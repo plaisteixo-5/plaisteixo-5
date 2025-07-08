@@ -24,7 +24,7 @@
 </div>
 
 
-- 🌱 I’m currently learning concepts of software architeture, back-end and front-end development using .NET, Angular and NodeJs.
+- 🌱 I’m currently learning concepts of software architeture, back-end and front-end development using .NET and Angular.
 - 🎓 Studying computer science at University of Brasília.
 
 <div align="center">

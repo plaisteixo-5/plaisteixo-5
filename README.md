@@ -24,5 +24,4 @@
 </div>
 
 
-- 🌱 I’m currently learning concepts of software architeture, back-end and front-end development using .NET and Angular.
-- 🎓 Studying computer science at University of Brasília.
+- 🌱 I’m currently improving my knowledge about software architeture, system design and automated tests using .NET CORE.
